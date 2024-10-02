@@ -1,0 +1,199 @@
+{
+    "Dialog": [
+        {
+            "Text": "Musisz mi pomóc!",
+            "Options": [
+                {
+                    "Text": "Jak to możliwe, że jesteś tutaj?",
+                    "Response": {
+                        "Text": "Zostałam pojmana podczas tajnej misji. Odkryłam dowody na możliwy spisek naszego komputera pokładowego z wrogiem.",
+                        "Options": [
+                            {
+                                "Text": "Jakie masz dowody na zdradę komputera pokładowego?",
+                                "Response": {
+                                    "Text": "Znalazłam dzienniki komunikacji między naszym komputerem a statkiem wroga, które zawierają podejrzane transakcje.",
+                                    "Options": [
+                                        {
+                                            "Text": "Jakie rodzaje transakcji zostały przeprowadzone?",
+                                            "Response": {
+                                                "Text": "Transakcje dotyczyły wymiany danych i potencjalnie dostępu do naszych systemów.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Czy masz fizyczne kopie tych dzienników?",
+                                            "Response": {
+                                                "Text": "Tak, mam kopie zapisane na przenośnym dysku, który udało mi się ukryć.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Czy możliwe jest, że to tylko fałszywy trop?",
+                                            "Response": {
+                                                "Text": "To możliwe, ale wydaje się mało prawdopodobne biorąc pod uwagę kontekst.",
+                                                "Options": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Text": "Dlaczego wrogowie cię jeszcze nie zabili?",
+                                "Response": {
+                                    "Text": "Wrogowie chcieli wykorzystać mnie jako zakładniczkę do negocjacji lub uzyskania informacji.",
+                                    "Options": [
+                                        {
+                                            "Text": "Jak długo jesteś w niewoli?",
+                                            "Response": {
+                                                "Text": "Jestem tu od kilku tygodni, trudno mi zliczyć dokładnie dni.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Czy próbowałaś się komunikować z naszą frakcją?",
+                                            "Response": {
+                                                "Text": "Próbowałam, ale wszelkie próby były blokowane przez wrogów.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Czy wrogowie cię torturowali?",
+                                            "Response": {
+                                                "Text": "Tak, były próby wymuszenia informacji, ale nie ujawniłam nic ważnego.",
+                                                "Options": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Text": "Czy jesteś pewna co do swoich oskarżeń?",
+                                "Response": {
+                                    "Text": "Nie jestem pewna na sto procent, ale wszystkie znaki na to wskazują.",
+                                    "Options": [
+                                        {
+                                            "Text": "Czy ktoś jeszcze może potwierdzić twoje podejrzenia?",
+                                            "Response": {
+                                                "Text": "Może potwierdzić to tylko osoba mająca dostęp do podobnych informacji.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Jakie działania podjęłaś po odkryciu spisku?",
+                                            "Response": {
+                                                "Text": "Starłam się zabezpieczyć dowody i szukać sposobu na kontakt z naszą frakcją.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Czy istnieją inne dowody, które mogą to potwierdzić?",
+                                            "Response": {
+                                                "Text": "Możliwe, że dalsze śledztwo na naszym statku mogłoby coś ujawnić.",
+                                                "Options": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Text": "Jak możemy stąd uciec?",
+                    "Response": {
+                        "Text": "Musimy wykorzystać słabe punkty bezpieczeństwa statku wroga i stworzyć dywersję, aby wymknąć się niezauważenie.",
+                        "Options": [
+                            {
+                                "Text": "Jakie są słabe punkty bezpieczeństwa na tym statku?",
+                                "Response": {
+                                    "Text": "Niektóre sektory są słabiej monitorowane, a systemy alarmowe mają opóźnienia.",
+                                    "Options": [
+                                        {
+                                            "Text": "Czy możemy wykorzystać te słabe punkty bez ryzyka wykrycia?",
+                                            "Response": {
+                                                "Text": "Tak, ale musimy być bardzo ostrożni i poruszać się szybko.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Czy są jakieś ukryte przejścia, których możemy użyć?",
+                                            "Response": {
+                                                "Text": "Istnieją korytarze serwisowe, które nie są zazwyczaj używane przez załogę.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Jakie są ryzyka związane z przechodzeniem przez te sektory?",
+                                            "Response": {
+                                                "Text": "Ryzyko obejmuje napotkanie wrogów i aktywowanie alarmów.",
+                                                "Options": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Text": "Jaką dywersję możemy stworzyć?",
+                                "Response": {
+                                    "Text": "Możemy wywołać pożar lub awarię systemów, aby odwrócić uwagę załogi.",
+                                    "Options": [
+                                        {
+                                            "Text": "Czy mamy odpowiednie narzędzia do wywołania pożaru czy awarii?",
+                                            "Response": {
+                                                "Text": "Możemy użyć materiałów znalezionych na statku, jak substancje chemiczne czy elektryczne komponenty.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Jak długo dywersja może odwracać uwagę załogi?",
+                                            "Response": {
+                                                "Text": "Dywersja powinna dać nam kilka minut, zanim załoga zorientuje się w sytuacji.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Czy istnieje ryzyko, że dywersja spowoduje realne zagrożenie dla nas?",
+                                            "Response": {
+                                                "Text": "Istnieje ryzyko, ale jeśli będziemy ostrożni, możemy je zminimalizować.",
+                                                "Options": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Text": "Czy masz plan dotarcia do kapsuły ratunkowej lub innego statku?",
+                                "Response": {
+                                    "Text": "Mam schemat statku i wiem, gdzie znajdują się kapsuły ratunkowe.",
+                                    "Options": [
+                                        {
+                                            "Text": "Czy kapsuły ratunkowe są monitorowane?",
+                                            "Response": {
+                                                "Text": "Tak, ale mogę wyłączyć ich systemy monitoringu.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Jakie są szanse na udaną ucieczkę w kapsule?",
+                                            "Response": {
+                                                "Text": "Szanse są dobre, jeśli uda nam się uniknąć wykrycia przy wchodzeniu do nich.",
+                                                "Options": []
+                                            }
+                                        },
+                                        {
+                                            "Text": "Czy możemy skomunikować się z naszą frakcją po wejściu do kapsuły?",
+                                            "Response": {
+                                                "Text": "Tak, kapsuły mają systemy komunikacji awaryjnej.",
+                                                "Options": []
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

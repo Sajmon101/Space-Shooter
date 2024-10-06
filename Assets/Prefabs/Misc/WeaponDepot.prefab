@@ -78,7 +78,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c975d4db9c00874ca3347b05e8cf7b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponPrefab: {fileID: 0}
+  weaponPrefab: {fileID: 5205340391221721382, guid: 9cd363bba660d3b498d802f8aee27f6e, type: 3}
   shouldRespawnWeapon: 0
   weaponRespawnDelay: 5
 --- !u!65 &2786116753004807031

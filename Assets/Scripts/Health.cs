@@ -52,7 +52,7 @@ public class Health : MonoBehaviour, IHealth
         healthBar.fillAmount = currentHealth / maxHealth;
     }
 
-    void Die()
+    public void Die()
     {
         OnDeath.Invoke();
 

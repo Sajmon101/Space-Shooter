@@ -39,6 +39,8 @@ public class WeaponDepot : MonoBehaviour
             return;
         }
 
+        gameObject.SetActive(false);
+
         Inventory equipment = other.GetComponent<Inventory>();
         if (equipment)
         {

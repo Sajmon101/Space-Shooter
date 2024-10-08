@@ -21,7 +21,7 @@ The game was created by two students as part of a university project.
 <img src="Image/Game3.png" alt="Game Screenshot" width="500"/> 
 
 ## Assets
-W projekcie wykorzystano następujące zewnętrzne zasoby:
+Additional external resources:
 
 - **Sci-Fi Styled Modular Pack** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913).
 - **Asteroids Pack** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/asteroids-pack-84988).

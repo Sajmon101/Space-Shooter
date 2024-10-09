@@ -19,6 +19,7 @@ The game was created by two students as part of a university project.
 ## Screenshots
 <img src="Image/Game1.png" alt="Main Menu" width="500"/> <img src="Image/Game2.png" alt="Instruction" width="500"/>
 <img src="Image/Game3.png" alt="Game Screenshot" width="500"/> 
+<img src="Images/Gameplay.gif" alt="Gameplay GIF" width="500"/>
 
 ## Assets
 Additional external resources:

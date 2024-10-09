@@ -27,7 +27,7 @@ Additional external resources:
 - **Sci-Fi Styled Modular Pack** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913).
 - **Asteroids Pack** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/asteroids-pack-84988).
 - **Classic Space Skybox** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/classic-space-skybox-11596).
-- **Galactic Heroes Cartoon Spaceship** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/3d/galactic-heroes-cartoon-spaceship-70188)).
+- **Galactic Heroes Cartoon Spaceship** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/3d/galactic-heroes-cartoon-spaceship-70188).
 - **Free 2D Impact FX** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-2d-impact-fx-201222).
 - **Robot Hero : PBR HP Polyart** – downloaded from [Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154).
 

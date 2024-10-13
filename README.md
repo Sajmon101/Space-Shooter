@@ -4,8 +4,8 @@
 Space Platform Survival is a fast-paced action game set on a platform in outer space, where players face off against three types of enemies. The goal is to survive in challenging conditions and defeat enemies. Better weapon and ammopacks can be found on the map. 
 
 ## Authors
-- Szymon Korus
-- Michał Rabsztyn
+- Szymon Korus: Responsible for the development of enemy mechanics and map implementation.
+- Michał Rabsztyn: Responsible for equipment, power-up collection, and character movement and shooting.
 
 ## Key features
 - Three Enemy Types:

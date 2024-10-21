@@ -15,7 +15,7 @@ Space Platform Survival is a fast-paced action game set on a platform in outer s
 - Power-Ups: Ammo packs and weapon upgrades are scattered across the platform, helping the player survive longer and fight more effectively.
 
 ## Tools
-- Unity 2022.3.12f1
+- Unity 2022.3.12f1 (build-in pipeline)
 - C#
 - NavMesh
 
